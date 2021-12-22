@@ -37,6 +37,10 @@ body {
     border-radius: 10px;
 }
 
+.imageSection img:hover {
+    background-color: hsl(178, 100%, 50%);
+}
+
 .textSection {
     margin-top: 15px;
     color: white;
